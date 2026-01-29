@@ -1,0 +1,2 @@
+ALTER TABLE Invoices
+RENAME COLUMN Total TO TotalAmount;

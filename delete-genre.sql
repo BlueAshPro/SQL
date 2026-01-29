@@ -1,0 +1,1 @@
+DELETE FROM Genres WHERE GenreId= 8;
